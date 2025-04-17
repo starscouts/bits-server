@@ -1,0 +1,11 @@
+{
+  "id": "9e32ab85-b207-464b-b6db-b776ff20439e",
+  "secret": "jbZApCxlQ1bq",
+  "ntfy": {
+    "legacy": "iGCYEDEj3WrJqH375YYLi4hevv87a769bEb9VGpfqGfuAaVe",
+    "server": "notifications.equestria.dev",
+    "topic": "main",
+    "user": "server",
+    "password": "TamGBABr8ArYX6zLokgIv1ueHqSFy2krBvUZWgh4zzKnKHj7Ae"
+  }
+}

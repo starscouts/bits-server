@@ -1,0 +1,1 @@
+<?php header("Location: /Authentication/Start") and die();
